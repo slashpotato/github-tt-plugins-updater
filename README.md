@@ -5,4 +5,4 @@ Plugin checks if version of this plugin's or any other slashpotato's plugin vers
 ### Plans:
 1. Making it able to select update channel: release or nightly
 
-[Discord server](https://dsc.gg/slashpotato)
+[Discord Server](https://dsc.gg/slashpotato)
