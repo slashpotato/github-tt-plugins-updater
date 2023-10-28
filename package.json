@@ -1,0 +1,19 @@
+{
+  "name": "github-tt-plugins-updater",
+  "version": "1.0.0",
+  "description": "TheoTown plugin to auto update and download slashpotato's plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slashpotato/github-tt-plugins-updater.git"
+  },
+  "author": "slashpotato",
+  "license": "LGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/slashpotato/github-tt-plugins-updater/issues"
+  },
+  "homepage": "https://github.com/slashpotato/github-tt-plugins-updater#readme"
+}
